@@ -1,6 +1,6 @@
 # Baldr
 
-`baldr` generates and serves a documentation site for your REST API.
+`baldr` generates and serves a documentation site for your REST API using input parameters such as headers, code snippets, etc. to populate the documentation page with dynamic examples and machine-readable instruction, programmed using GoLang and based on Swagger 2.0 spec
 
 
 ## Installation
